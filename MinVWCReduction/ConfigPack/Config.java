@@ -1,0 +1,4 @@
+package ConfigPack;
+
+class Config{
+}
